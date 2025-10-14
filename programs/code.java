@@ -5,7 +5,7 @@ class ReverseString {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter String to reverse");
+        // System.out.println("Enter String to reverse"); hello 
         String sc = input.nextLine();
         System.err.println("string is :" + sc);
         String res = "";
